@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "S8MakN4BuZo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\2503710\\OneDrive - Cognizant\\Documents\\TestProject\\TestProject\\TestProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\2503710\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.8\\microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",
+    "C:\\Users\\2503710\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
