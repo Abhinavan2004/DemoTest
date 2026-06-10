@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\2503710\\OneDrive - Cognizant\\Documents\\TestProject\\",
+  "WorkspaceRootPath": "C:\\Users\\2503605\\OneDrive - Cognizant\\Documents\\DemoTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA6DCA88-CD24-4A4B-AE05-3D856F1FBA94}|TestProject\\TestProject.csproj|c:\\users\\2503710\\onedrive - cognizant\\documents\\testproject\\testproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA6DCA88-CD24-4A4B-AE05-3D856F1FBA94}|TestProject\\TestProject.csproj|solutionrelative:testproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C393C39E-434B-21C1-6C56-7AC4E694B8B1}|TestProject\\TestProject.csproj|c:\\users\\2503605\\onedrive - cognizant\\documents\\demotest\\testproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C393C39E-434B-21C1-6C56-7AC4E694B8B1}|TestProject\\TestProject.csproj|solutionrelative:testproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\2503710\\OneDrive - Cognizant\\Documents\\TestProject\\TestProject\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\2503605\\OneDrive - Cognizant\\Documents\\DemoTest\\TestProject\\Program.cs",
               "RelativeDocumentMoniker": "TestProject\\Program.cs",
-              "ToolTip": "C:\\Users\\2503710\\OneDrive - Cognizant\\Documents\\TestProject\\TestProject\\Program.cs",
+              "ToolTip": "C:\\Users\\2503605\\OneDrive - Cognizant\\Documents\\DemoTest\\TestProject\\Program.cs",
               "RelativeToolTip": "TestProject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-10T03:56:04.484Z",
               "EditorCaption": ""
